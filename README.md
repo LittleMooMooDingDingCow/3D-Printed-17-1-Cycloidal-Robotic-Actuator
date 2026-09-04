@@ -1,4 +1,4 @@
-# 3D-Printed-17-1-Cycloidal-Robotic-Actuator
+# 3D-Printed-Cycloidal-Robotic-Actuator
 17:1 and 25:1 Gear ratio cycloidal robotic actuator, powered by BLDC motor and runs FOC control based on B-G431-ESC1 development board and BHL firmware. New custom FOC drive board is under development.
 
 WE highly recommend using the 25:1 gear ratio cycloidal robotic actuator for any robotic applications including robotic arms, automation, or humanoid robot. 
